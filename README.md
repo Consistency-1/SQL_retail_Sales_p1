@@ -51,6 +51,25 @@ The dataset contains retail transaction records with information about sales, cu
 5. Write SQL queries to answer business questions.
 6. Interpret the results and identify opportunities for business improvement.
 
+## 📊 Retail Sales Analysis — Business Questions
+Dataset Overview
+1. What is the total number of records in the retail sales dataset?
+2. How many unique customers are present in the dataset?
+3. What are the distinct product categories available in the dataset?
+Sales Analysis
+4. Retrieve all columns for sales made on November 5, 2022.
+5. Retrieve all transactions where the product category is Clothing, the quantity sold is at least 4, and the transaction occurred in November 2022.
+6. Calculate the total sales revenue for each product category.
+7. Calculate the average age of customers who purchased products from the Beauty category.
+8. Retrieve all transaction IDs where the total sales amount is greater than 1,000.
+Customer and Transaction Analysis
+9. Calculate the total number of transactions for each gender within each product category.
+10. Identify the best-selling month in each year based on the highest average transaction sales.
+11. Identify the top 5 customers based on their total sales contribution.
+12. Calculate the number of unique customers who purchased products from each category.
+Time-Based Analysis
+13. Classify transactions into Morning, Afternoon, and Evening shifts and calculate the number of orders in each shift.
+
 ## 📊 Business Questions & SQL Analysis
 
 ### 1. Dataset Overview
